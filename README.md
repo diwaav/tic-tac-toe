@@ -1,2 +1,7 @@
-# tic-tac-toe
-[Python] A simple tic-tac-toe game created for my Beginning Programming in Python course at UCSC
+# tic-tac-toe [CSE 20]
+tictac.py    
+↳ The main file that uses both the player and board classes to form the game    
+player.py    
+↳ The player class    
+board.py    
+↳ The board class    
