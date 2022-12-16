@@ -1,6 +1,6 @@
 # author: Diwa Ashwini Vittala
 # date: 12-09-2020
-# file: player.py a Python program used in the tic-tac-toe game
+# file: board.py a Python program used in the tic-tac-toe game
 
 class Board:
     def __init__(self):
